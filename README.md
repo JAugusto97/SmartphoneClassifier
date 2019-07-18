@@ -1,4 +1,4 @@
-# SmartphoneClassifier
+# Smartphone Matching (Processo Seletivo Birdie)
 Crawling de smartphones, classificação e matching.
 
 birdie_ps.ipynb é o código de classificação e matching dos protudos.
